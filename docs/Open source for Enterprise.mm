@@ -1,4 +1,4 @@
-<map version="1.0.0">
+<map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1318081602787" ID="ID_920820342" MODIFIED="1325049625809" TEXT="Open source for Enterprise">
 <node CREATED="1318083163447" ID="ID_1969080897" MODIFIED="1318083167508" POSITION="left" TEXT="misc.">
@@ -9,7 +9,7 @@
 </node>
 </node>
 <node CREATED="1318083803435" ID="ID_1854390238" MODIFIED="1318083804328" POSITION="right" TEXT="dev">
-<node CREATED="1318083805063" ID="ID_582307294" MODIFIED="1335316217581" TEXT="test"/>
+<node CREATED="1318083805063" ID="ID_582307294" MODIFIED="1318083806259" TEXT="test"/>
 <node CREATED="1318085545498" ID="ID_268877625" MODIFIED="1318085547723" TEXT="language">
 <node CREATED="1318085461318" ID="ID_957401540" MODIFIED="1318085464176" TEXT="node.js">
 <node CREATED="1318085466243" ID="ID_1276044201" LINK="http://kb.cnblogs.com/page/100982/" MODIFIED="1318085480313" TEXT="&#x5165;&#x95e8; Simple-TODO nodejs&#x5b9e;&#x73b0;&#x7248;"/>
@@ -28,9 +28,6 @@
 <node CREATED="1320800953395" ID="ID_1039011189" LINK="http://www.sinatrarb.com/" MODIFIED="1320800973075" TEXT="Sinatra"/>
 <node CREATED="1320800958965" ID="ID_1518537766" LINK="https://github.com/sinatra/sinatra" MODIFIED="1320800964700" TEXT="Sinatra Github"/>
 </node>
-</node>
-<node CREATED="1335315923944" ID="ID_167362777" MODIFIED="1335315926546" TEXT="javascript">
-<node CREATED="1335315927907" ID="ID_1943629610" LINK="http://docs.kissyui.com/" MODIFIED="1335315932837" TEXT="kissy"/>
 </node>
 </node>
 </node>
@@ -91,6 +88,12 @@
 <node CREATED="1320291063315" ID="ID_1094683913" LINK="http://ntbab.dyndns.org/apache2-default/seite/icalparseandroid.html" MODIFIED="1320291082218" TEXT="CalendarSync"/>
 </node>
 <node CREATED="1329466296276" ID="ID_1414709459" LINK="http://sourceforge.net/projects/helloworldgm/" MODIFIED="1329466309435" TEXT="HelloWorld goes Mobile"/>
+<node CREATED="1346977889601" ID="ID_51657063" LINK="https://github.com/cyrilmottier/GreenDroid" MODIFIED="1346977933548" TEXT="GreenAndroid"/>
+<node CREATED="1346977968907" ID="ID_961608121" LINK="http://code.google.com/p/android-ui-utils/" MODIFIED="1346977974269" TEXT="android-ui-utils"/>
+<node CREATED="1346978165629" ID="ID_1443113088" LINK="http://www.openintents.org/en/" MODIFIED="1346978170336" TEXT="openintents"/>
+<node CREATED="1346978190149" ID="ID_1286376059" LINK="http://code.google.com/p/android-coverflow/" MODIFIED="1346978194680" TEXT="android-coverflow"/>
+<node CREATED="1346978279007" ID="ID_1538532838" LINK="http://commonsware.com/cwac" MODIFIED="1346978295622" TEXT="CommonsWare Android Components(CWAC)"/>
+<node CREATED="1346982396888" ID="ID_1798317253" LINK="https://github.com/darvds/RibbonMenu" MODIFIED="1346982403676" TEXT="RibbonMenu"/>
 </node>
 <node CREATED="1318089927155" ID="ID_446021927" MODIFIED="1318089928672" TEXT="ios"/>
 <node CREATED="1318089929742" ID="ID_1580319262" MODIFIED="1318089931019" TEXT="webos"/>
@@ -266,6 +269,23 @@
 <node CREATED="1325745594785" ID="ID_433397566" LINK="http://www.kaggle.com/" MODIFIED="1325745597458" TEXT="kaggle"/>
 <node CREATED="1325745607575" ID="ID_1207626908" LINK="http://www.cloudsigma.com/" MODIFIED="1325745614170" TEXT="cloudsigma"/>
 </node>
+<node CREATED="1351128226139" ID="ID_1045666844" MODIFIED="1351128271591">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cloudera Impala
+    </p>
+    <p>
+      Google Dremel&#31867;&#24320;&#28304;
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1351128290302" ID="ID_558403140" LINK="https://ccp.cloudera.com/display/IMPALA10BETADOC/Cloudera+Impala+1.0+Beta+Documentation" MODIFIED="1351128297843" TEXT="Documentation"/>
+</node>
 </node>
 <node CREATED="1320637491598" ID="ID_207955007" MODIFIED="1321930990379" POSITION="right" TEXT="Network management">
 <icon BUILTIN="messagebox_warning"/>
@@ -303,8 +323,7 @@
 </node>
 <node CREATED="1321931990631" ID="ID_1046847686" MODIFIED="1321931991879" POSITION="left" TEXT="agile">
 <node CREATED="1321931993349" ID="ID_763759698" MODIFIED="1321931994911" TEXT="redmine"/>
-<node CREATED="1321932047321" ID="ID_1926703421" MODIFIED="1335316217582" TEXT="test">
-<arrowlink DESTINATION="ID_582307294" ENDARROW="Default" ENDINCLINATION="1747;0;" ID="Arrow_ID_342079678" STARTARROW="None" STARTINCLINATION="1747;0;"/>
+<node CREATED="1321932047321" ID="ID_1926703421" MODIFIED="1321932048897" TEXT="test">
 <node CREATED="1321932049824" ID="ID_768581211" MODIFIED="1321932052762" TEXT="cucumber"/>
 <node CREATED="1321932054163" ID="ID_1019409368" MODIFIED="1321932059212" TEXT="javascript">
 <node CREATED="1321932060319" ID="ID_1865887699" MODIFIED="1321932062404" TEXT="jspec"/>
@@ -353,9 +372,6 @@
 <node CREATED="1329465932406" ID="ID_1382437022" MODIFIED="1329465935631" POSITION="right" TEXT="Visualizing">
 <node CREATED="1329465936613" ID="ID_133805389" MODIFIED="1329465940078" TEXT="Data Visualizing"/>
 <node CREATED="1329465941623" ID="ID_708731160" MODIFIED="1329465946160" TEXT="Info Visualizing"/>
-</node>
-<node CREATED="1335158806463" ID="ID_1078969089" MODIFIED="1335158822836" POSITION="right" TEXT="cross programming">
-<node CREATED="1335158823893" ID="ID_1110871674" LINK="https://github.com/andot/oh" MODIFIED="1335158837597" TEXT="open hprose"/>
 </node>
 </node>
 </map>
