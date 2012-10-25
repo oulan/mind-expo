@@ -285,6 +285,7 @@
 </html>
 </richcontent>
 <node CREATED="1351128290302" ID="ID_558403140" LINK="https://ccp.cloudera.com/display/IMPALA10BETADOC/Cloudera+Impala+1.0+Beta+Documentation" MODIFIED="1351128297843" TEXT="Documentation"/>
+<node CREATED="1351128528701" ID="ID_1522283760" LINK="http://www.csdn.net/article/2012-10-25/2811151-Cloudera-Real-Time-Hadoop-Impala" MODIFIED="1351128537386" TEXT="news"/>
 </node>
 </node>
 <node CREATED="1320637491598" ID="ID_207955007" MODIFIED="1321930990379" POSITION="right" TEXT="Network management">
