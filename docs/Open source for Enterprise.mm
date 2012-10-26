@@ -282,8 +282,7 @@
       Google Dremel&#31867;&#24320;&#28304;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1351128290302" ID="ID_558403140" LINK="https://ccp.cloudera.com/display/IMPALA10BETADOC/Cloudera+Impala+1.0+Beta+Documentation" MODIFIED="1351128297843" TEXT="Documentation"/>
 <node CREATED="1351128528701" ID="ID_1522283760" LINK="http://www.csdn.net/article/2012-10-25/2811151-Cloudera-Real-Time-Hadoop-Impala" MODIFIED="1351128537386" TEXT="news"/>
 </node>
@@ -302,6 +301,9 @@
 <node CREATED="1320645611495" ID="ID_1826605882" LINK="http://oss.sgi.com/projects/pcp/" MODIFIED="1320645617866" TEXT="Co-Pilot"/>
 <node CREATED="1320645636826" ID="ID_1129062730" LINK="http://www.zabbix.com/" MODIFIED="1320645648580" TEXT="ZABBIX"/>
 <node CREATED="1320645840365" ID="ID_1599858612" LINK="http://ipmitool.sourceforge.net/" MODIFIED="1320645845251" TEXT="IMPItool"/>
+<node CREATED="1351288044221" ID="ID_1370794336" MODIFIED="1351288053004" TEXT="Network access control">
+<node CREATED="1351288054304" ID="ID_1037107168" LINK="http://www.packetfence.org" MODIFIED="1351288067426" TEXT="PacketFence"/>
+</node>
 </node>
 <node CREATED="1320713225248" ID="ID_1855013889" MODIFIED="1320713229910" POSITION="left" TEXT="Web Analytics">
 <node CREATED="1320713237956" ID="ID_1605852691" LINK="http://piwik.org/" MODIFIED="1320713253365" TEXT="Piwik"/>
