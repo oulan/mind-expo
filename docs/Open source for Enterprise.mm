@@ -104,6 +104,9 @@
 <node CREATED="1321940189729" ID="ID_766165960" LINK="http://www.sencha.com/products/touch" MODIFIED="1321940196150" TEXT="Sencha Touch"/>
 <node CREATED="1321940249388" ID="ID_558629129" LINK="http://www.appcelerator.com/products/titanium-mobile-application-development/" MODIFIED="1321940261504" TEXT="Titanium Mobile"/>
 </node>
+<node CREATED="1351296697946" ID="ID_1418512452" LINK="http://www.mosync.com/" MODIFIED="1351296714384" TEXT="MoSync">
+<node CREATED="1351301157847" ID="ID_194094797" LINK="https://github.com/divineprog/mobilelua" MODIFIED="1351301166609" TEXT="MobileLua"/>
+</node>
 </node>
 <node CREATED="1318138125947" ID="ID_940721867" LINK="http://en.wikipedia.org/wiki/List_of_concept_mapping_and_mind_mapping_software" MODIFIED="1318138333024" POSITION="right" TEXT="mind mapping">
 <node CREATED="1318138146248" ID="ID_1599135642" MODIFIED="1318138302214" TEXT="Freemind"/>
