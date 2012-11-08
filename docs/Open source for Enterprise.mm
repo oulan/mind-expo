@@ -401,5 +401,10 @@
 <node CREATED="1352188606829" ID="ID_41783300" LINK="http://www.inpreso.com/inpresoscreens/" MODIFIED="1352188615464" TEXT="Inpreso Screens"/>
 <node CREATED="1352190048365" ID="ID_1469439785" LINK="https://www.invisionapp.com/" MODIFIED="1352190054597" TEXT="InVision App"/>
 </node>
+<node CREATED="1352334000194" ID="ID_1756167940" MODIFIED="1352334001590" POSITION="left" TEXT="PM">
+<node CREATED="1352334008105" ID="ID_776018769" LINK="http://www.libreplan.com/navalplan/" MODIFIED="1352334026971" TEXT="NAVAL PLAN"/>
+<node CREATED="1352334099499" ID="ID_1267815547" LINK="http://www.zentao.net/" MODIFIED="1352334117067" TEXT="&#x7985;&#x9053;"/>
+<node CREATED="1352334146656" ID="ID_1395946763" LINK="http://www.projectforge.org/" MODIFIED="1352334151275" TEXT="ProjectForge"/>
+</node>
 </node>
 </map>
