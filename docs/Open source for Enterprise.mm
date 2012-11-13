@@ -379,5 +379,10 @@
 <node CREATED="1329465936613" ID="ID_133805389" MODIFIED="1329465940078" TEXT="Data Visualizing"/>
 <node CREATED="1329465941623" ID="ID_708731160" MODIFIED="1329465946160" TEXT="Info Visualizing"/>
 </node>
+<node CREATED="1351807251616" ID="ID_1913377574" MODIFIED="1351807259134" POSITION="right" TEXT="B/S Printing">
+<node CREATED="1351807262209" ID="ID_1325149948" LINK="http://css-discuss.incutio.com/wiki/Print_Stylesheets" MODIFIED="1351807304084" TEXT="print css">
+<node CREATED="1351807318522" ID="ID_87841746" LINK="http://www.westciv.com/style_master/academy/browser_support/printing.html" MODIFIED="1351807324467" TEXT="Browser support"/>
+</node>
+</node>
 </node>
 </map>
